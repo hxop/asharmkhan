@@ -913,8 +913,8 @@
                                 >
 
                                 <div class="uc-content">
-    <h2 style="line-height: 1;"><span style="color: #ffffff;">ETHICAL </span></h2>
-<h2><span style="color: #ffffff;">HACKING </span></h2>
+    <h1 style="line-height: 1;"><span style="color: #ffffff;">ETHICAL </span></h1>
+<h1><span style="color: #ffffff;">HACKING </span></h1>
 </div>                                </div>
                         </div>
                                                                             </div>
