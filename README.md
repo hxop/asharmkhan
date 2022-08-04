@@ -4,7 +4,7 @@
        dir="ltr"       itemscope itemtype="http://schema.org/WebSite"
       data-page-type="pageBlank">
 <head>
-            <title>Film Director CV Template - Asharmkhan</title>
+      <title></h1>Personal website</h1></title>
 <link rel="alternate" href="https://asharmkhan.ucraft.site" hreflang="x-default"/>
 <link rel="alternate" href="https://asharmkhan.ucraft.site" hreflang="en-us"/>
 <meta itemprop="name" content="Film Director CV Template - Asharmkhan">
