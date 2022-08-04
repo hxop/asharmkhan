@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html class="desktop preview-mode " prefix="og: http://ogp.me/ns#"
       lang="en-us"
        dir="ltr"       itemscope itemtype="http://schema.org/WebSite"
@@ -22,19 +21,8 @@
 <meta name="generator" content="Ucraft"/>
 <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
 <link href="https://asharmkhan.ucraft.site" rel="canonical"/>
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org/",
-  "@type": "Organization",
-  "name": "Asharmkhan",
-  "url": "https://asharmkhan.ucraft.site"
-}
-
-
-</script>
-
     
-            <meta name="image" content="https://static.ucraft.net/fs/ucraft/userFiles/asharmkhan/images/58-seo-screen-shot-2020-12-25-at-140656.jpg?v=1653994896">
+           <meta name="image" content="https://static.ucraft.net/fs/ucraft/userFiles/asharmkhan/images/58-seo-screen-shot-2020-12-25-at-140656.jpg?v=1653994896">
         <meta property="og:image" content="https://static.ucraft.net/fs/ucraft/userFiles/asharmkhan/images/58-seo-screen-shot-2020-12-25-at-140656.jpg?v=1653994896"/>
         <meta property="og:image:secure_url" content="https://static.ucraft.net/fs/ucraft/userFiles/asharmkhan/images/58-seo-screen-shot-2020-12-25-at-140656.jpg?v=1653994896"/>
         <meta property="og:image:width" content="2345"/>
