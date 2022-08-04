@@ -1,6 +1,3 @@
-# asharmkhan
-Personal website
-
 <!DOCTYPE html>
 <html class="desktop preview-mode " prefix="og: http://ogp.me/ns#"
       lang="en-us"
